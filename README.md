@@ -1,3 +1,6 @@
+# CHATIFY
+Chatify is a decentralized chat and it's based on IPFS (InterPlanetary File System) with ability to send and receive Filecoin from your interlocutor.
+
 ## Build and deploy app
 
 1. This app works best with `window.ipfs`. Install the IPFS Companion web extension:
